@@ -50,3 +50,8 @@
     border-radius: 20px;
     cursor: pointer;
 }
+
+.btn.dark:hover {
+    background-color: #008686;
+    transition: background-color 0.3s;
+}

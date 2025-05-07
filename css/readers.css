@@ -30,3 +30,8 @@
     padding: 10px 30px;
     cursor: pointer;
 }
+
+.borrowers-btn:hover {
+    background-color: #008686;
+    transition: background-color 0.3s;
+}
